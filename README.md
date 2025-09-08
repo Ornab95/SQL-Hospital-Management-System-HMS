@@ -26,7 +26,7 @@ This project presents a SQL-based Hospital Management System (HMS) designed to s
 
 ### 📊 ERD / Schema Diagram
 
-![Hospital Management System ERD](images/ERD.png)
+![Hospital Management System ERD](Hospital-Managment-System/images/ERD.png)
 
 ## 🧾 Part 2: Table Creation & Data Insertion
 
